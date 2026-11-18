@@ -1,0 +1,403 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023",
+  "release_tag": "v1.0.0",
+  "archive": {
+    "asset_name": "figures_png_pdf_v1.0.0.zip",
+    "size_bytes": 271783119,
+    "sha256": "a5e7d9cfe3162ba1d1d9fd8a939885744a596b8cf2ca83ac526dd94c7ca46f07",
+    "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/figures_png_pdf_v1.0.0.zip"
+  },
+  "files": [
+    {
+      "path": "figures/main/fig1_region.png",
+      "size_bytes": 1765809,
+      "sha256": "7cf654daf388591dfffc85a3731e01463380e18683c938b2323cf6e3e3e25fd1"
+    },
+    {
+      "path": "figures/main/fig1_region.pdf",
+      "size_bytes": 218266,
+      "sha256": "1308633d0db583f1307379d56b30b69904aa96654eb8a0701b5ffffda0287c0d"
+    },
+    {
+      "path": "figures/main/fig2_arctic_aod.png",
+      "size_bytes": 3601340,
+      "sha256": "faf4bdc8411836cb70e83b0f0f8e2fb03f3c1a914d939f7c309561317b753b44"
+    },
+    {
+      "path": "figures/main/fig2_arctic_aod.pdf",
+      "size_bytes": 4321463,
+      "sha256": "db861beef8cae53fe8d8500c0ddb736ef1ec59ed725fe83fe47d8da761a20f4c"
+    },
+    {
+      "path": "figures/main/fig3_aod_source_attribution.png",
+      "size_bytes": 1590199,
+      "sha256": "e268952ee5ae21b738a9cc994756f083cd895bc3b0ff189df2c93e97bd32120a"
+    },
+    {
+      "path": "figures/main/fig3_aod_source_attribution.pdf",
+      "size_bytes": 53447,
+      "sha256": "f3a53c89f8a16a1c21b86bafeaab3b5fa68a33f63a6973713ef0a52c82250256"
+    },
+    {
+      "path": "figures/main/fig4_surface_shortwave_dre.png",
+      "size_bytes": 3519326,
+      "sha256": "2c152b8d0dcd82e20fcc860bcabd2cf7767cc09cf910d01e28733adc4df7187d"
+    },
+    {
+      "path": "figures/main/fig4_surface_shortwave_dre.pdf",
+      "size_bytes": 4370328,
+      "sha256": "9beb23ac6c89d3c4e506e69fdd3f92c8489bda263b0a2adffea818751652010f"
+    },
+    {
+      "path": "figures/main/fig5_dre_component_source_heatmap.png",
+      "size_bytes": 1844369,
+      "sha256": "1c8aa2ca7ad5236b7b121327b996bdadda434250216f0eec218f3aa07fb866a1"
+    },
+    {
+      "path": "figures/main/fig5_dre_component_source_heatmap.pdf",
+      "size_bytes": 249544,
+      "sha256": "ea3c1df6f4a86293ee2132f96a7ec325d795524ab8a07c426fda9cf4ad8f2133"
+    },
+    {
+      "path": "figures/supplementary/figs1_aeronet_station_validation.png",
+      "size_bytes": 3969734,
+      "sha256": "f24e7301e15722d13867f694c2c83ad745ed5465e501e6167a5f15dd92c10d03"
+    },
+    {
+      "path": "figures/supplementary/figs1_aeronet_station_validation.pdf",
+      "size_bytes": 353715,
+      "sha256": "d708704c0525888502dc3cf47f2b524238fe14a8b85126152c732d10e88dcb25"
+    },
+    {
+      "path": "figures/supplementary/figs2_aeronet_land_man_validation.png",
+      "size_bytes": 3565243,
+      "sha256": "ec5d5f106aea4dcded25b06d5322045be8d8346a5e302196f6abe0cd1a00379c"
+    },
+    {
+      "path": "figures/supplementary/figs2_aeronet_land_man_validation.pdf",
+      "size_bytes": 1239298,
+      "sha256": "10e24386e57f06b601ebcd233ca5b3c9afe1d2566586b21fae3d6b40ea1f5e5e"
+    },
+    {
+      "path": "figures/supplementary/figs3_merra2_aod_scatter.png",
+      "size_bytes": 1070067,
+      "sha256": "3ccdb6b380ba6f1b07df530b0e095a15e9c973d045bf07dff0bfa9ce1a21dbf4"
+    },
+    {
+      "path": "figures/supplementary/figs3_merra2_aod_scatter.pdf",
+      "size_bytes": 121084,
+      "sha256": "b81572270aeaf17ea7e8d39016254cf170db05fead76e83e9e823b7fb4a34d01"
+    },
+    {
+      "path": "figures/supplementary/figs4_merra2_aod_spatial_bias.png",
+      "size_bytes": 4612148,
+      "sha256": "1602ee696885ccbf8924f7fdb43f73d76b5626ac7aac81c4ca3b1cce75cb6a5f"
+    },
+    {
+      "path": "figures/supplementary/figs4_merra2_aod_spatial_bias.pdf",
+      "size_bytes": 1099960,
+      "sha256": "48be188980f1ebf289fbacd44b60cffec18846e184a1dc0077ca55bfc6e5f038"
+    },
+    {
+      "path": "figures/supplementary/figs5_ceres_radiation_scatter.png",
+      "size_bytes": 1310513,
+      "sha256": "d400f6e8a3a20f39a90f6583fc57dac777d126142a94e7913631ea9dd4b34795"
+    },
+    {
+      "path": "figures/supplementary/figs5_ceres_radiation_scatter.pdf",
+      "size_bytes": 372746,
+      "sha256": "249929527aea0154f9b6b53e145ae655237e1b4f3f0dc2ecc19fe08915628c2e"
+    },
+    {
+      "path": "figures/supplementary/figs6_ceres_all_sky_spatial.png",
+      "size_bytes": 7991042,
+      "sha256": "37dfec65ccf95bce8f09ec90a5737091b795642f50c6c10345ca24e49649cf4b"
+    },
+    {
+      "path": "figures/supplementary/figs6_ceres_all_sky_spatial.pdf",
+      "size_bytes": 3505321,
+      "sha256": "2b3ebc3e24fe0e621c12e408b721c65db3414c178ea62788727f2d1d580fe455"
+    },
+    {
+      "path": "figures/supplementary/figs7_ceres_clear_sky_spatial.png",
+      "size_bytes": 7987450,
+      "sha256": "c64287ada44511ae4153fda48c0c97a550b4f7864212ce6048cb0bd8fc616ba6"
+    },
+    {
+      "path": "figures/supplementary/figs7_ceres_clear_sky_spatial.pdf",
+      "size_bytes": 3518151,
+      "sha256": "73433bc097e97eab18f3ec30fec9f9c207d2609490179d9c3be70af16388bb5d"
+    },
+    {
+      "path": "figures/supplementary/figs8_nitrate_aod.png",
+      "size_bytes": 3511043,
+      "sha256": "1aff6b7b946dc58fb848e84857babafcd942af3509fc3758da16c1a56cd2e7e0"
+    },
+    {
+      "path": "figures/supplementary/figs8_nitrate_aod.pdf",
+      "size_bytes": 4224480,
+      "sha256": "87f49c4c9005b6fa3d02fdbceaa93a9fa45749de498070c56cf37e9b9fc46797"
+    },
+    {
+      "path": "figures/supplementary/figs9_black_carbon_aod.png",
+      "size_bytes": 3666863,
+      "sha256": "3421404d1c53ae1d16bdcc91a45bb0f738c8500674569501774cb9a542fd1daf"
+    },
+    {
+      "path": "figures/supplementary/figs9_black_carbon_aod.pdf",
+      "size_bytes": 4315981,
+      "sha256": "cf9303d40aee56041951239906ae36a1201652d06c21d92f2c834953e33a208e"
+    },
+    {
+      "path": "figures/supplementary/figs10_organic_carbon_aod.png",
+      "size_bytes": 3570332,
+      "sha256": "3f614fdb76472805014c693f9a1203d0cec97a35ffae09cfe6c0c1f83640d720"
+    },
+    {
+      "path": "figures/supplementary/figs10_organic_carbon_aod.pdf",
+      "size_bytes": 4241255,
+      "sha256": "faa57c86177b1004e12298980a9bbeac7efac50d3b8b05e2107432d4a4e7c3a9"
+    },
+    {
+      "path": "figures/supplementary/figs11_sulfate_aod.png",
+      "size_bytes": 3586780,
+      "sha256": "dca1eb89f96ce8ed13a1cf676b03f7e4af106371efa9e03ee3365a8640aa9a0b"
+    },
+    {
+      "path": "figures/supplementary/figs11_sulfate_aod.pdf",
+      "size_bytes": 4251569,
+      "sha256": "450262811c2675f4a3ea55ffab5e7dc7f47d6d656071dac3e71cc17445a69e72"
+    },
+    {
+      "path": "figures/supplementary/figs12_natural_sea_salt_dust_aod.png",
+      "size_bytes": 3525497,
+      "sha256": "e377425d84c24e0e75c89ddb76b41e0bab81f09ede7c891ab95c009f4ae8a076"
+    },
+    {
+      "path": "figures/supplementary/figs12_natural_sea_salt_dust_aod.pdf",
+      "size_bytes": 3137581,
+      "sha256": "d8925d9ad78cf78abca2c873a74fd65c2b64fe3308536e45ef524100cb2fd142"
+    },
+    {
+      "path": "figures/supplementary/figs13_aod_component_source_heatmap.png",
+      "size_bytes": 829710,
+      "sha256": "dcc5173bbe9b7f7ca1b5fb36088866a9b2b3a790128b3eed0e428f1cb705af67"
+    },
+    {
+      "path": "figures/supplementary/figs13_aod_component_source_heatmap.pdf",
+      "size_bytes": 113088,
+      "sha256": "3fe177bd9181885b68d202a37ae335c1888e982161f1829ecafb254eb0e357b0"
+    },
+    {
+      "path": "figures/supplementary/figs14_total_toa_shortwave_dre.png",
+      "size_bytes": 3632683,
+      "sha256": "63202d4cb64f1efd2b600a93b8b9c616a61654e69e86a9af2129f0fedba768d9"
+    },
+    {
+      "path": "figures/supplementary/figs14_total_toa_shortwave_dre.pdf",
+      "size_bytes": 4421252,
+      "sha256": "c1955917586ada8266ced5398e4338064b926ec8ae45a07182b8cc26175daf4e"
+    },
+    {
+      "path": "figures/supplementary/figs15_total_surface_longwave_dre.png",
+      "size_bytes": 3492908,
+      "sha256": "a38231505089ee0f61faa64dbe095eaedf80b4230c5bb93ff2184ba07a0772cd"
+    },
+    {
+      "path": "figures/supplementary/figs15_total_surface_longwave_dre.pdf",
+      "size_bytes": 4342882,
+      "sha256": "f570b6566ceedeb373831da227a9ed3f3a8983c4673dc1a896cf2d4f60cd7ad3"
+    },
+    {
+      "path": "figures/supplementary/figs16_total_toa_longwave_dre.png",
+      "size_bytes": 3548513,
+      "sha256": "3a5ea58a7403968799904f4361abd3626d9c8e24d8044955d3d11de0019d1103"
+    },
+    {
+      "path": "figures/supplementary/figs16_total_toa_longwave_dre.pdf",
+      "size_bytes": 4355844,
+      "sha256": "82492a0eac0aaf1119017ba322ea5a2f6eb559d3049f32822c749199b601e136"
+    },
+    {
+      "path": "figures/supplementary/figs17_nitrate_surface_shortwave_dre.png",
+      "size_bytes": 3469197,
+      "sha256": "7abb0d3677ee56a3f1a3d46d404af35314ac563f5af37fcaf8f0b05b572c61d9"
+    },
+    {
+      "path": "figures/supplementary/figs17_nitrate_surface_shortwave_dre.pdf",
+      "size_bytes": 4307955,
+      "sha256": "b26fb63358169d507fab2c76427ee7b892bd517e9ebce94b766377a581e3f1b0"
+    },
+    {
+      "path": "figures/supplementary/figs18_nitrate_toa_shortwave_dre.png",
+      "size_bytes": 3502502,
+      "sha256": "3bfd4f47ecb9f45a0e3e1fcff7b0d5104322b50b238abd748479480476320077"
+    },
+    {
+      "path": "figures/supplementary/figs18_nitrate_toa_shortwave_dre.pdf",
+      "size_bytes": 4327645,
+      "sha256": "e3e331f70c4c540116eca03813ba851476e336522d0d06ca595d5e697d86b7ba"
+    },
+    {
+      "path": "figures/supplementary/figs19_nitrate_surface_longwave_dre.png",
+      "size_bytes": 3537464,
+      "sha256": "76f5860b1a5874334d5cba4f2f418063d80d0bdea3561b604bbf04d0a6bb720d"
+    },
+    {
+      "path": "figures/supplementary/figs19_nitrate_surface_longwave_dre.pdf",
+      "size_bytes": 4327781,
+      "sha256": "597d6b157e7597be899f29a170b22bc97725cd677a2d42fcce9ca79fdd5529fb"
+    },
+    {
+      "path": "figures/supplementary/figs20_nitrate_toa_longwave_dre.png",
+      "size_bytes": 3592802,
+      "sha256": "83b7aa9ddab84746525f3b00203189d86b0a815fd1755fb64340892703fde4b9"
+    },
+    {
+      "path": "figures/supplementary/figs20_nitrate_toa_longwave_dre.pdf",
+      "size_bytes": 4359689,
+      "sha256": "918b1f730f51e0c86708a9f41ebb1a14d18be8be2f76420ac66e5a94065f9c45"
+    },
+    {
+      "path": "figures/supplementary/figs21_black_carbon_surface_shortwave_dre.png",
+      "size_bytes": 3544107,
+      "sha256": "8c3297a9c20d74b538cc998cb9d30080901774113577cdd7b99fdcee397e1a32"
+    },
+    {
+      "path": "figures/supplementary/figs21_black_carbon_surface_shortwave_dre.pdf",
+      "size_bytes": 4386312,
+      "sha256": "2d6f65804b8c9d3befbe6d03b1922a5345c1cafa60c874bb0cff3821193d85f1"
+    },
+    {
+      "path": "figures/supplementary/figs22_black_carbon_toa_shortwave_dre.png",
+      "size_bytes": 3710596,
+      "sha256": "6160ce1699df8bf0affee2efaa4156150e9fd15974aa49d5b3c2a3668b84cd55"
+    },
+    {
+      "path": "figures/supplementary/figs22_black_carbon_toa_shortwave_dre.pdf",
+      "size_bytes": 4436614,
+      "sha256": "d8d587e916bfac486d243b998a0606d7e1d3564be290792128a808197669d0bb"
+    },
+    {
+      "path": "figures/supplementary/figs23_black_carbon_surface_longwave_dre.png",
+      "size_bytes": 3616221,
+      "sha256": "cd599e36f36592a4518a4fb972e68bad013b270d8906a9c256a85f8d8c793b1c"
+    },
+    {
+      "path": "figures/supplementary/figs23_black_carbon_surface_longwave_dre.pdf",
+      "size_bytes": 4411124,
+      "sha256": "3cf785e6025c01770cc228115a7e2b9a5af597e227d7004fa0ab6e8e9126a7e8"
+    },
+    {
+      "path": "figures/supplementary/figs24_black_carbon_toa_longwave_dre.png",
+      "size_bytes": 3607691,
+      "sha256": "cbb5f4fef72dc10bc1d32b12d16651003499f42d7c8da76d1bd70a1547fd77ed"
+    },
+    {
+      "path": "figures/supplementary/figs24_black_carbon_toa_longwave_dre.pdf",
+      "size_bytes": 4360418,
+      "sha256": "74946704fec6cc9a593996d3cb68b2747cca1e054e4a6b2c12e95dc3ebf5cc76"
+    },
+    {
+      "path": "figures/supplementary/figs25_organic_carbon_surface_shortwave_dre.png",
+      "size_bytes": 3511367,
+      "sha256": "5cf68aab119c58bfb7cc6507b36c8ea17ada21fd54b30371f607e8a6e8d67085"
+    },
+    {
+      "path": "figures/supplementary/figs25_organic_carbon_surface_shortwave_dre.pdf",
+      "size_bytes": 4296583,
+      "sha256": "06b19258ebe1cdbff66db1251119c12baf3cc1763867140ab99e595128cf6c9e"
+    },
+    {
+      "path": "figures/supplementary/figs26_organic_carbon_toa_shortwave_dre.png",
+      "size_bytes": 3557104,
+      "sha256": "bac683c428c6a581e15aceeb7743839e96cab65200ef452ff90f640498faeb02"
+    },
+    {
+      "path": "figures/supplementary/figs26_organic_carbon_toa_shortwave_dre.pdf",
+      "size_bytes": 4317100,
+      "sha256": "fac94becb522ef6b1ff93b5a77344f58689569cb4ce897dc38b17d488b4853d6"
+    },
+    {
+      "path": "figures/supplementary/figs27_organic_carbon_surface_longwave_dre.png",
+      "size_bytes": 3529849,
+      "sha256": "d8623a6b6ed8390d186e513f39376c064df94146760651f467cb85efded3129c"
+    },
+    {
+      "path": "figures/supplementary/figs27_organic_carbon_surface_longwave_dre.pdf",
+      "size_bytes": 4329367,
+      "sha256": "3a691a58ebc5c001ad604009c6252e08faa0f06e580f7d4156d3ad8f81b26796"
+    },
+    {
+      "path": "figures/supplementary/figs28_organic_carbon_toa_longwave_dre.png",
+      "size_bytes": 3639795,
+      "sha256": "d733671987dccd88601c066778413c6485c9aec0a57eb211dc174fa912b37c9e"
+    },
+    {
+      "path": "figures/supplementary/figs28_organic_carbon_toa_longwave_dre.pdf",
+      "size_bytes": 4370435,
+      "sha256": "1156bd47173fee414611e45fe93305707a26acfd2248aee8a189c2eae3a3331f"
+    },
+    {
+      "path": "figures/supplementary/figs29_sulfate_surface_shortwave_dre.png",
+      "size_bytes": 3557280,
+      "sha256": "897a25f08b1f9675f67e540ddb239b23561f48a8150703ac9d90ac30c98d215d"
+    },
+    {
+      "path": "figures/supplementary/figs29_sulfate_surface_shortwave_dre.pdf",
+      "size_bytes": 4336456,
+      "sha256": "c85b1b63d4c866167971f134fdc01d9bee07c959a35fa77cb7b3e0a4b5533ed4"
+    },
+    {
+      "path": "figures/supplementary/figs30_sulfate_toa_shortwave_dre.png",
+      "size_bytes": 3574602,
+      "sha256": "b9f7d018d687f5aa5420ce573cbacd582488a92a13f7beed9cdc6dd822900370"
+    },
+    {
+      "path": "figures/supplementary/figs30_sulfate_toa_shortwave_dre.pdf",
+      "size_bytes": 4408472,
+      "sha256": "a6f91212cb0da02d3a98355d99db981fd2b96f3962e91e2f9fb610dcc742037d"
+    },
+    {
+      "path": "figures/supplementary/figs31_sulfate_surface_longwave_dre.png",
+      "size_bytes": 3595401,
+      "sha256": "bdf55a86f706059026c621ae2bf985a2e3987fcc58fcef820587a2b8cab66a1d"
+    },
+    {
+      "path": "figures/supplementary/figs31_sulfate_surface_longwave_dre.pdf",
+      "size_bytes": 4354083,
+      "sha256": "c118420051a24e96eef435dd350da41cb1d071bec8f28c6c5f3361f80aca3dd5"
+    },
+    {
+      "path": "figures/supplementary/figs32_sulfate_toa_longwave_dre.png",
+      "size_bytes": 3700621,
+      "sha256": "1bded61d3ad8159d667f1ac4f4960709e8a127ef801c377a8fc3ab863ea2fe99"
+    },
+    {
+      "path": "figures/supplementary/figs32_sulfate_toa_longwave_dre.pdf",
+      "size_bytes": 4374898,
+      "sha256": "ae6990154b38c6ead0524bbe4a5450d4775ffabb22617f1fa4b6ca039e053bd1"
+    },
+    {
+      "path": "figures/supplementary/figs33_natural_dust_dre.png",
+      "size_bytes": 4523027,
+      "sha256": "9a2fda068bb79e2e297a858e4fd193445d482c29031064328425a3e3c92d2521"
+    },
+    {
+      "path": "figures/supplementary/figs33_natural_dust_dre.pdf",
+      "size_bytes": 5494583,
+      "sha256": "00b74721592905e340333fb90d9aee97cb165f826813f697308db23ce2d57711"
+    },
+    {
+      "path": "figures/supplementary/figs34_natural_sea_salt_dre.png",
+      "size_bytes": 4318697,
+      "sha256": "e2a8fe4f2393f05872241e8c3ae386540674432b37082d8a2d1d3c672dfbc0e0"
+    },
+    {
+      "path": "figures/supplementary/figs34_natural_sea_salt_dre.pdf",
+      "size_bytes": 5461871,
+      "sha256": "e7a743ce6f2e4da87d2147d03a4fbb502e85f12e8f5d3df3106dd3e9d1ac1af4"
+    }
+  ]
+}

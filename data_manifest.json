@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023",
+  "release_tag": "v1.0.0",
+  "files": [
+    {
+      "path": "data/aod/aod_gc_base.nc",
+      "asset_name": "aod_gc_base.nc",
+      "size_bytes": 10080906,
+      "sha256": "3dfaab7dde6cd154a417bf98183b50474ef9bbdf96ee96b3fd15d06f8c1eb21c",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_base.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_east_asia.nc",
+      "asset_name": "aod_gc_no_east_asia.nc",
+      "size_bytes": 10081034,
+      "sha256": "29e9be5c2ad811bc211b54412b6033c39ee76a625bb02239a267f8b6374b76bf",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_east_asia.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_north_america.nc",
+      "asset_name": "aod_gc_no_north_america.nc",
+      "size_bytes": 10082226,
+      "sha256": "6c5dfd16024e813e664126c44e24fd38be61dd03947e3371e57c2bac8a728907",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_north_america.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_north_europe.nc",
+      "asset_name": "aod_gc_no_north_europe.nc",
+      "size_bytes": 10076370,
+      "sha256": "9dd4eb0811267a26b84abf4b59dcaf4233c83280515f397fd24ff93080f9e8bf",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_north_europe.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_north_europe_sup.nc",
+      "asset_name": "aod_gc_no_north_europe_sup.nc",
+      "size_bytes": 10077299,
+      "sha256": "1875a1a34d77d57ffe0bdcf15a6ac3dfd18dbc0e992003483dd0d2f0c1fe193d",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_north_europe_sup.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_south_europe.nc",
+      "asset_name": "aod_gc_no_south_europe.nc",
+      "size_bytes": 10080683,
+      "sha256": "b29402b165d75046a535011bc40ded6af06df960693af882eeb55288ea31317b",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_south_europe.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_no_three_regions_sup.nc",
+      "asset_name": "aod_gc_no_three_regions_sup.nc",
+      "size_bytes": 10077312,
+      "sha256": "af8c824a553d76cb15110dea08dffa5c03b063e7c91607deacf3941f9b302d08",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_no_three_regions_sup.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_noall.nc",
+      "asset_name": "aod_gc_noall.nc",
+      "size_bytes": 10058839,
+      "sha256": "ace2d91d604c56392f0ba0f6c6245001973b9e9e552d02e54437f4b3b90a8c84",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_noall.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_nonp.nc",
+      "asset_name": "aod_gc_nonp.nc",
+      "size_bytes": 10070896,
+      "sha256": "60de264f1f7056ed5b1674aa694f4436b7a02101482746b63c09b3c876616f22",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_nonp.nc"
+    },
+    {
+      "path": "data/aod/aod_gc_nonp_sup.nc",
+      "asset_name": "aod_gc_nonp_sup.nc",
+      "size_bytes": 10079188,
+      "sha256": "64ae12967076417e9d0aa8ca052b0bb2eb745e6d5a506222499168975d23f756",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_gc_nonp_sup.nc"
+    },
+    {
+      "path": "data/geography/natural_earth_geometry.nc",
+      "asset_name": "natural_earth_geometry.nc",
+      "size_bytes": 20174628,
+      "sha256": "293a10a92f2527a0a55b2d76fa1be8adc2df49141b6264e10b869a3af0b2cf35",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/natural_earth_geometry.nc"
+    },
+    {
+      "path": "data/observations/All_MAN_Data_V3_AOD_Level20.nc",
+      "asset_name": "All_MAN_Data_V3_AOD_Level20.nc",
+      "size_bytes": 76504741,
+      "sha256": "6f0f99d38615b6e953ad62af5c257fcc9539cbfb76b298d6f7d399c545a8e2ab",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/All_MAN_Data_V3_AOD_Level20.nc"
+    },
+    {
+      "path": "data/observations/aod_aeronet_monthly_v3.nc",
+      "asset_name": "aod_aeronet_monthly_v3.nc",
+      "size_bytes": 1539170,
+      "sha256": "1c0eacf16684c76511b46bb7c00ed5a16f385b5e6f524f91d05ef4c5cde32675",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_aeronet_monthly_v3.nc"
+    },
+    {
+      "path": "data/observations/aod_merra2_components.nc",
+      "asset_name": "aod_merra2_components.nc",
+      "size_bytes": 405077974,
+      "sha256": "3d250d912645c243c85c10afe01bc125e05020206a76a3b6d203822b00fa3541",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/aod_merra2_components.nc"
+    },
+    {
+      "path": "data/observations/rad_ceres_monthly.nc",
+      "asset_name": "rad_ceres_monthly.nc",
+      "size_bytes": 296634176,
+      "sha256": "da65416e8127c4018bd5d562b1f12947d3c7f24e34a2a62ca7b7c44bc3a633c0",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_ceres_monthly.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L0_base.nc",
+      "asset_name": "rad_gc_L0_base.nc",
+      "size_bytes": 109455116,
+      "sha256": "1712f4749ae68881e172f34d3bcee05ccfc3d45de355bd66776161dd084a9fb8",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L0_base.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L1_noall.nc",
+      "asset_name": "rad_gc_L1_noall.nc",
+      "size_bytes": 108597033,
+      "sha256": "942612d8eb5dc5a0152fcc56bc42c70163e7418a9489feaacd0c57ce73e936d2",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L1_noall.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L2_local_nonp.nc",
+      "asset_name": "rad_gc_L2_local_nonp.nc",
+      "size_bytes": 89917351,
+      "sha256": "dcecf55a25de767370e36bf2973b9c6dc13a2caf2bd9f5225840d3b37df05d29",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L2_local_nonp.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L2_trans_nonp_sup.nc",
+      "asset_name": "rad_gc_L2_trans_nonp_sup.nc",
+      "size_bytes": 89456987,
+      "sha256": "d5238c7af6e39ffa8e2befe07188d8a24e3320ef50db0e7d8ced3b5907035f8e",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L2_trans_nonp_sup.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_local_no_north_europe.nc",
+      "asset_name": "rad_gc_L3_local_no_north_europe.nc",
+      "size_bytes": 109415465,
+      "sha256": "fb66685fe7a89d96d7cd83b9f8107bd6ae5aa45dec37c98d4d197bc5abd90d69",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_local_no_north_europe.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_local_no_north_europe_sup.nc",
+      "asset_name": "rad_gc_L3_local_no_north_europe_sup.nc",
+      "size_bytes": 89969911,
+      "sha256": "28bfa79e5e6f3a760b8054774601305c42aa0afb2e53501c0fd65c7a69655280",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_local_no_north_europe_sup.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_trans_no_east_asia.nc",
+      "asset_name": "rad_gc_L3_trans_no_east_asia.nc",
+      "size_bytes": 109420681,
+      "sha256": "2a2f69624aa84d7853c444007c89d7fa1b13844cdc743584d1b278496cb1630a",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_trans_no_east_asia.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_trans_no_north_america.nc",
+      "asset_name": "rad_gc_L3_trans_no_north_america.nc",
+      "size_bytes": 109432460,
+      "sha256": "a59bd4111c0f763afa725d06211c3830abc3ca25bbf659d349231434dce41b73",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_trans_no_north_america.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_trans_no_south_europe.nc",
+      "asset_name": "rad_gc_L3_trans_no_south_europe.nc",
+      "size_bytes": 109407068,
+      "sha256": "551c6c8a36460a31b180298a254a772eaf71f4263663ddf26811b0f4df47861a",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_trans_no_south_europe.nc"
+    },
+    {
+      "path": "data/radiation/rad_gc_L3_trans_no_three_regions_sup.nc",
+      "asset_name": "rad_gc_L3_trans_no_three_regions_sup.nc",
+      "size_bytes": 89682476,
+      "sha256": "cc004ea5c4e5c7948f9fbe0aa39e39a44993704fb13fca5ea5b8a9c31aa1a882",
+      "download_url": "https://github.com/raymen677/arctic-aerosol-aod-dre-2014-2023/releases/download/v1.0.0/rad_gc_L3_trans_no_three_regions_sup.nc"
+    }
+  ]
+}

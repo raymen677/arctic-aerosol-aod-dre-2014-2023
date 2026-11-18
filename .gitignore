@@ -1,0 +1,8 @@
+# Scientific data and complete figure exports are distributed as Release assets.
+/data/
+/figures/
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
